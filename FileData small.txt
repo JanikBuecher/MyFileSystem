@@ -1,0 +1,8 @@
+janik_savefile
+Caroljean O'Kane,1,Informatik
+Odessa Bonhan,2,Logik
+Even McLeary,3,Programmieren
+Ambur Conyers,4,Mathe
+Ianthe Chesswas,5,Informatik
+Camille Do Rosario,6,Programmieren
+Fremont Mcasparan,7,Mathe
